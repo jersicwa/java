@@ -2,8 +2,7 @@ package Working;
 
 public class Integers {
 public static void main(String[] args) {
-    int age=16;
-    System.out.println(age);
+    double weight=120.5;
+    System.out.println(weight);
 }
 }
- 
