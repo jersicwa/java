@@ -6,5 +6,7 @@ public static void main(String[] args) {
     String nick = sc.nextLine();
     int age = sc.nextInt();
     System.out.println(nick+":"+age);
+
+    
 }
 }
